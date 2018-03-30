@@ -1,2 +1,2 @@
 # TrialProject
-Creating trial project in github
+This is the new branch off the master branch named Branch1
